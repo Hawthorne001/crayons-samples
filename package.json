@@ -6,7 +6,7 @@
     "@freshworks/crayons": "^4.2.0",
     "react": "~18.2.0",
     "react-dom": "~18.2.0",
-    "react-router-dom": "^6.22.3"
+    "react-router-dom": "^7.0.0"
   },
   "scripts": {
     "test": "vitest run --coverage",
@@ -16,9 +16,9 @@
     "@babel/preset-env": "~7.24.0",
     "@babel/preset-react": "~7.23.3",
     "@testing-library/react": "~14.2.1",
-    "@vitest/coverage-v8": "~2.1.8",
+    "@vitest/coverage-v8": "~4.1.10",
     "identity-obj-proxy": "~3.0.0",
     "jsdom": "~26.1.0",
-    "vitest": "~2.1.8"
+    "vitest": "~4.1.10"
   }
 }
